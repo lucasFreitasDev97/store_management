@@ -37,7 +37,7 @@
   </svg>
 </span>
 </span>
-            <span class="app-brand-text demo menu-text fw-bold ms-2">Materialize</span>
+            <span class="app-brand-text demo menu-text fw-bold ms-2">GL</span>
         </a>
         <a href="javascript:void(0);" class="layout-menu-toggle menu-link text-large ms-auto">
             <svg width="22" height="22" viewBox="0 0 22 22" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -57,6 +57,22 @@
             <a href="" class="menu-link d-flex">
                 <i class="menu-icon tf-icons mdi mdi-home-outline"></i>
                 <div>Página Inicial</div>
+            </a>
+            <a href="" class="menu-link d-flex">
+                <i class="menu-icon tf-icons mdi mdi-bus-school"></i>
+                <div>Fornecedores</div>
+            </a>
+            <a href="" class="menu-link d-flex">
+                <i class="menu-icon tf-icons mdi mdi-account-switch"></i>
+                <div>Clientes</div>
+            </a>
+            <a href="" class="menu-link d-flex">
+                <i class="menu-icon tf-icons mdi mdi-account-multiple"></i>
+                <div>Funcionários</div>
+            </a>
+            <a href="" class="menu-link d-flex">
+                <i class="menu-icon tf-icons mdi mdi-cash"></i>
+                <div>Vendas</div>
             </a>
         </li>
     </ul>
