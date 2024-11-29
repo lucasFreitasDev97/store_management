@@ -9,12 +9,12 @@ class SupplierController extends Controller
 {
     public function index(): View
     {
-        return view('suppliers.create');
+        return view('suppliers.index');
     }
 
     public function create(): View
     {
-        return view('suppliers.index');
+        return view('suppliers.create');
     }
 
     public function store()

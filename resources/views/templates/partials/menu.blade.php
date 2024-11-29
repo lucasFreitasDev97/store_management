@@ -54,11 +54,11 @@
     <ul class="menu-inner py-1">
         <!-- Dashboards -->
         <li class="menu-item">
-            <a href="" class="menu-link d-flex">
+            <a href="/" class="menu-link d-flex">
                 <i class="menu-icon tf-icons mdi mdi-home-outline"></i>
                 <div>Página Inicial</div>
             </a>
-            <a href="" class="menu-link d-flex">
+            <a href="{{route('suppliers.index')}}" class="menu-link d-flex">
                 <i class="menu-icon tf-icons mdi mdi-bus-school"></i>
                 <div>Fornecedores</div>
             </a>

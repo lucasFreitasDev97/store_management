@@ -4,13 +4,15 @@
         sistema.</p>
     <div class="row mb-4">
         <div class="col-6">
-            <div class="card">
-                <div class="card-body d-flex flex-column justify-content-center board-card">
-                    <i class="mdi mdi-bus-school mdi-48px text-center"></i>
-                    <span class="text-center" style="font-size: 16px">Fornecedores:</span>
-                    <span class="text-center" style="font-size: 40px">0</span>
+            <a href="{{route('suppliers.index')}}">
+                <div class="card">
+                    <div class="card-body d-flex flex-column justify-content-center board-card">
+                        <i class="mdi mdi-bus-school mdi-48px text-center"></i>
+                        <span class="text-center" style="font-size: 16px">Fornecedores:</span>
+                        <span class="text-center" style="font-size: 40px">0</span>
+                    </div>
                 </div>
-            </div>
+            </a>
         </div>
         <div class="col-6">
             <div class="card">
